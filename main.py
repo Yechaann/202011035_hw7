@@ -2,9 +2,9 @@ import requests
 import pandas as pd
 from datetime import datetime, timedelta
 
-SERVICE_KEY = "d0292d7e968506d31fe603bbd849bd8e49996923951fe06b5201dd69812420e6"
+SERVICE_KEY = "9ef54157b35522cbef8c85428ed4debe3cdcb67280daffc9490f3632671bb1e7"
 
-STN_ID = "108"
+STN_ID = "143"
 
 # API
 BASE_URL = "https://apis.data.go.kr/1360000/AsosHourlyInfoService/getWthrDataList"
